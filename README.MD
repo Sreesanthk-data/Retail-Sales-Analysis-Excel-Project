@@ -1,9 +1,9 @@
-📊 Retail Sales Analysis (Excel Project)
+ Retail Sales Analysis (Excel Project)
 
 # This project analyzes a retail sales dataset using Excel.
 # It includes data cleaning, formulas, pivot tables, and a final dashboard.
 
-📁 Files Included
+ Files Included
 
 Retail-Sales-Analysis-Excel-Project/
 │
@@ -18,7 +18,7 @@ Retail-Sales-Analysis-Excel-Project/
 │
 └── README.md
 
-# 🧼 Data Cleaning (Summary)
+#  Data Cleaning (Summary)
 
 # Steps performed in Dataset_After:
 
@@ -59,7 +59,7 @@ Retail-Sales-Analysis-Excel-Project/
 - =SUMIFS(I:I,D:D,"South")
 
 
-# 📊 Pivot Tables Created
+#  Pivot Tables Created
 
 - Inside Analysis I created:
 
@@ -73,7 +73,7 @@ Retail-Sales-Analysis-Excel-Project/
 
 - Product Sales Summary
 
-# 📈 Dashboard
+#  Dashboard
 
 - The dashboard includes:
 
